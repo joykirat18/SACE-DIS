@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "738194359798",
+    "firebase_url": "https://beacon-b8b9d-default-rtdb.firebaseio.com",
+    "project_id": "beacon-b8b9d",
+    "storage_bucket": "beacon-b8b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738194359798:android:cd10c0f62683be895f73d7",
+        "android_client_info": {
+          "package_name": "com.joykirat.DIS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738194359798-dl82lnmfj4euuehh9t0350jv80hej8i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joykirat.DIS",
+            "certificate_hash": "bc3f48f92bc5bd528c68370bca5d01b176185977"
+          }
+        },
+        {
+          "client_id": "738194359798-a710lag10s6spe0cffrp9tnke83mkdmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwrbyyXZ380iBYiYDnhQquFjae0HKXw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738194359798-a710lag10s6spe0cffrp9tnke83mkdmc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738194359798-mjsr5d7nao8d0emt0k7lulqu8dhhodhv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joykirat.DIS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

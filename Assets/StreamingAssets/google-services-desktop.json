@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "738194359798-mjsr5d7nao8d0emt0k7lulqu8dhhodhv.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKOgTrV0grps06qOLFXnuxf976pUk7Ek"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:738194359798:ios:ad4846ad74eb4ccd5f73d7", 
+        "android_client_info": {
+          "package_name": "com.joykirat.DIS"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "beacon-b8b9d.appspot.com", 
+    "project_id": "beacon-b8b9d", 
+    "firebase_url": "https://beacon-b8b9d-default-rtdb.firebaseio.com", 
+    "project_number": "738194359798"
+  }
+}
