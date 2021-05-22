@@ -76,7 +76,19 @@ able to see the nearest marked icon.
  
  ## [Demo Video](https://youtu.be/4GGEqbIi0UIv)
  
- 
+##  Future plans
+
+*Commenting on beacons
+The team plans to add the feature of comment in our software.
+
+*Creating a friends list and sharing beacons.
+Users can then place beacons just for their friends to see and experience. 
+
+
+
+
+
+
 
 ## Contributors
 
