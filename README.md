@@ -65,7 +65,7 @@ able to see the nearest marked icon.
 
 * [Google Map API](https://developers.google.com/maps/documentation/maps-static/overview) : We used google map api to show the google maps in our apps we used the google static map api and placed all our coordinates in the map .
 
-* FireBase : Used for maintaining database of latitude , longitude and images . we uploaded latitude , longitude along with all beacon data to this database and retrieve all the data in the application back to show all the beacons in real time with the help of ar+location asset.
+* [FireBase](https://firebase.google.com/docs/unity/setup) : Used for maintaining database of latitude , longitude and images . we uploaded latitude , longitude along with all beacon data to this database and retrieve all the data in the application back to show all the beacons in real time with the help of ar+location asset.
  
  
 ## [Demo Video](https://youtu.be/4GGEqbIi0UIv)
