@@ -1,30 +1,24 @@
 # SACE
 ![cover](https://user-images.githubusercontent.com/66181127/119221623-ce987900-bb0d-11eb-80f3-547db6fbe87c.jpeg)
 
-
 ## Vision Statement
 
 Travelers and explorers love to take risks experience new terrains of emotions. They also want to be an example for those who follow and tend to share their experiences through different mediums. We want to enhance, the feeling of achievement and, the experience of sharing and re-visiting experiences. They tend to attach and remember the memories of great significance to the place they experienced it. We plan to identify an innovative method with unique interactions to do and connect the place and the person more efficiently.
 
 ## Stakeholders
 
-Adventurists: Mountaineers, Trekkers, Marathon runners, Sailers, etc.
-Extreme Sports Athletes: River rafting, paragliding, wakeboarding, etc.
-Explorers
-Travelers
+* Adventurists: Mountaineers, Trekkers, Marathon runners, Sailers, etc.
+* Extreme Sports Athletes: River rafting, paragliding, wakeboarding, etc.
+* Explorers
+* Travelers
 
 ## SACE (Sharing and Celebrating Experiences)
 
-User can drop a collection of images, text and audio data called beacon in an augmented
-reality. User can save the beacons the once viewed and review them again at any other location.
-Due to the presence of numerous beacons present on a single geo-location:
+User can drop a collection of images, text and audio data called beacon in an augmented reality. User can save the beacons the once viewed and review them again at any other location.Due to the presence of numerous beacons present on a single geo-location:
 * The beacon can be made public or private, according to the user preference.
 * The beacons can be filtered out on the basis of time of creation.
-
-Personalised beacons to create an identity.
-Map helps in exploring new reacions and finding the existing beacons
-
-We Reiterated our features to make the application more enchance.
+* Personalised beacons to create an identity.
+* Map helps in exploring new reacions and finding the existing beacons
 
 ### How will the user
 
@@ -74,21 +68,21 @@ able to see the nearest marked icon.
 * FireBase : Used for maintaining database of latitude , longitude and images . we uploaded latitude , longitude along with all beacon data to this database and retrieve all the data in the application back to show all the beacons in real time with the help of ar+location asset.
  
  
- ## [Demo Video](https://youtu.be/4GGEqbIi0UIv)
- 
-##  Future plans
+## [Demo Video](https://youtu.be/4GGEqbIi0UIv)
 
-*Commenting on beacons
-The team plans to add the feature of comment in our software.
+## Screenshots
 
-*Creating a friends list and sharing beacons.
-Users can then place beacons just for their friends to see and experience. 
+<img width="936" alt="view1" src="https://user-images.githubusercontent.com/66681287/119375923-056eba80-bcd9-11eb-90f6-71d13ac34244.png">
+<img width="936" alt="view2" src="https://user-images.githubusercontent.com/66681287/119375946-0b649b80-bcd9-11eb-95c3-e0a811ffff6a.PNG">
+<img width="936" alt="view1" src="https://user-images.githubusercontent.com/66681287/119375950-0d2e5f00-bcd9-11eb-97ba-ff0e4aebd366.png">
+<img width="936" alt="view2" src="https://user-images.githubusercontent.com/66681287/119375965-11f31300-bcd9-11eb-87d5-d31035c2ca04.png">
 
+## Future plans
 
-
-
-
-
+* Commenting on beacons.
+* Implementation of time sorting filter using the time of creation.
+* Making the beacons Private/Public.
+* Creating a friends list and sharing beacons (Users can then place beacons just for their friends to see and experience)
 
 ## Contributors
 
